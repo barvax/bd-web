@@ -1,0 +1,17 @@
+body{
+    background-color: rebeccapurple;
+}
+
+.box{
+    width:200px;
+    height: 300px;
+    position: relative;
+    background-color: aliceblue;
+}
+#root{
+    display:flex;
+}
+.pic{
+    width: 50px;
+    height: 50px;
+}
